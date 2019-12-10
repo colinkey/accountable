@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  memo: MyString
+  activity_category: one
+  account: one
+  amount: 1
+
+two:
+  memo: MyString
+  activity_category: two
+  account: two
+  amount: 1
